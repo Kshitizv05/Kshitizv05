@@ -12,11 +12,17 @@
 
 
 - :school: I'm [Kshitiz](https://www.linkedin.com/in/kshitiz-verma05/), pre final year CSE with specialisation in Information Security student at <b>VIT, Vellore</b>
+
 - ❤️ Solving Problem-Solving Questions
+
 - 4 :star2: (Rating: 1988) **@ Codechef**
-- 🤟 I'm a **Cyber Security enthusiast and a Competitive Coder** 👨‍💻
+
+- 🤟 I'm a **Cyber Security enthusiast** and a **Competitive Coder** (C++ ❤️) 👨‍💻
+
 - :seedling: I’m currently learning AWS & React
+
 - ⚡ **Fun/weird fact**: If someone sneezes around me I hold my breath for like 10–12 seconds till all their germs disperse in the air away from me. (I know it doesn't work like this, but still :smile:)
+
 - 📫 Let's Connect: 
  [<br><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/kshitiz-verma05/)
  [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/yeah_thatboy/)
