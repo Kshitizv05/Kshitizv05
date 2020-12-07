@@ -35,6 +35,7 @@
 ## My Webinars :tv: 
 - <img src="https://i.ibb.co/GJMq5Jb/yt-icon.png" alt="yt-icon" border="0"> [Cloud Computing and Amazon Web Services (AWS)](https://www.youtube.com/watch?v=fcbx46-98KI)
 - <img src="https://i.ibb.co/GJMq5Jb/yt-icon.png" alt="yt-icon" border="0"> [Top 50 winner worldwide in "CodeChef Creator Hunt" contest](https://www.youtube.com/watch?v=3JgExj9pDIo&t=695s)
+- <img src="https://i.ibb.co/GJMq5Jb/yt-icon.png" alt="yt-icon" border="0"> [CodeChef EXC-1011 - Introduction to Hashmaps in C++](https://www.youtube.com/watch?v=-Fz7Mfo5eiE&t=1985s)
 - <img src="https://i.ibb.co/GJMq5Jb/yt-icon.png" alt="yt-icon" border="0"> [CodeChef EXC-1011 - Problem Solving and Algorithms](https://www.youtube.com/watch?v=DqgolM9YVN0&list=PLKxHrGVfoXt5RmiyM-fPEczPfjw5ZpcUM&index=1&t=4s
 )
  
