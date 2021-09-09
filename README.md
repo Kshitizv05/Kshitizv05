@@ -25,7 +25,7 @@
 
 - 📫 Let's Connect: 
  [<br><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/kshitiz-verma05/)
- [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/yeah_thatboy/)
+ [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/kshitizv5/)
  [<img src="https://img.icons8.com/color/48/000000/facebook.png" width="3.5%"/>](https://www.facebook.com/kshitiz.verma.984/)
  [<img src="https://img.icons8.com/color/48/000000/snapchat.png" width="3.5%"/>](https://www.snapchat.com/add/kshitizv5)
  <a href="mailto:vermakshitiz933@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
