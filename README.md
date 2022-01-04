@@ -11,7 +11,7 @@
 <img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" />
 
 
-- :school: I'm [Kshitiz](https://www.linkedin.com/in/kshitiz-verma05/), pre final year CSE with specialisation in Information Security student at <b>VIT, Vellore</b>
+- :school: I'm [Kshitiz](https://www.linkedin.com/in/kshitiz-verma05/), final year CSE with specialisation in Information Security student at <b>VIT, Vellore</b>
 
 - ❤️ Solving Problem-Solving Questions
 
