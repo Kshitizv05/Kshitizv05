@@ -21,7 +21,7 @@
 
 - :seedling: I’m currently learning AWS & React
 
-- ⚡ **Fun/weird fact**: If someone sneezes around me I hold my breath for like 10–12 seconds till all their germs disperse in the air away from me. (I know it doesn't work like this, but still :smile:)
+- 🌃 Nyctophile :)
 
 - 📫 Let's Connect: 
  [<br><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/kshitiz-verma05/)
